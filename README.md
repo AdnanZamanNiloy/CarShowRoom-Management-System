@@ -43,7 +43,7 @@
 ![Sales Management Module](https://github.com/user-attachments/assets/9e506529-8941-4739-8d41-af3e1dc396e5)  
 
 ### Invoice Report Generation  
-![Invoice Report Generation](https://github.com/user-attachments/assets/d4f13771-b744-42bf-8bbf-6da6208e4df1)  
+![image](https://github.com/user-attachments/assets/add7dc07-c804-428a-b09c-ad5cc5ba25cb)
 
 ### Repair and Maintenance Module  
 ![Repair and Maintenance Module](https://github.com/user-attachments/assets/ee82131f-3f64-49a7-87e9-425bb364f396)  
