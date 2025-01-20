@@ -87,6 +87,6 @@ Contributions are welcome! To contribute:
 ## Contact
 
 For questions, suggestions, or support, please contact:  
-**Your Name**  
+**Adnan Zaman Niloy**  
 Email: adnanzaman215@gmail.com  
 
