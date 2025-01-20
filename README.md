@@ -62,7 +62,7 @@
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/yourusername/CarShowroomManagementSystem.git
+   git clone https://github.com/AdnanZamanNiloy/CarShowroomManagementSystem.git
    ```
 
 2. **Set up the database**:  
