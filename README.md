@@ -1,6 +1,3 @@
-Here’s the rewritten and completed version of your README file, formatted and structured for use as a GitHub README:
-
----
 
 # Car Showroom Management System
 
